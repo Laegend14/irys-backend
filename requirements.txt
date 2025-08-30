@@ -1,2 +1,2 @@
-flask
-snscrape
+Flask
+snscrape==0.5.1.1
