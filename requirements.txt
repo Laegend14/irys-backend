@@ -1,2 +1,2 @@
 Flask
-snscrape==0.5.1.1
+snscrape==0.5.0.20230113
